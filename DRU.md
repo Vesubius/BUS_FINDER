@@ -1,5 +1,5 @@
 
-### Documento de Requisitos del Usuario (DRU) - Chilsaka Bus Finder
+# Documento de Requisitos del Usuario (DRU) - Chilsaka Bus Finder
 
 #### Objetivo del Documento:
 El propósito de este documento es establecer los requisitos funcionales y no funcionales de la aplicación Chilsaka Bus Finder desde la perspectiva del usuario final.
