@@ -1,27 +1,37 @@
-#Bus Finder
+# Bus Finder
+![](/Concepto/Banner.png)
 
 Bus Finder es una aplicación web que permite a los usuarios rastrear la posición de los autobuses en tiempo real y obtener información sobre horarios y tiempos de llegada estimados. Esta aplicación está diseñada para mejorar la experiencia de viaje en transporte público al proporcionar a los usuarios acceso a información precisa y actualizada sobre la disponibilidad de autobuses en su área.
 
 ## Características
 
 - Búsqueda de autobuses por ruta y ubicación.
+
 ![](/Concepto/image1.png)
 
 - Visualización de la ubicación de los autobuses en tiempo real en un mapa interactivo.
+
 ![](/Concepto/image3.png)
 
 - Selección de una ruta específica y visualización de los tiempos de llegada estimados de los autobuses en esa ruta.
+
 ![](/Concepto/image4.png)
 
 
 - Interfaz de usuario intuitiva y fácil de usar.
+
 ![](/Concepto/image5.png)
 
 ## Tecnologías Utilizadas
-- Lenguaje de Programación: Python
-- Framework Web: Flask
-- Frontend: HTML, CSS, JavaScript
-- Biblioteca de Geolocalización: Geopy , MapQuest
+- Lenguaje de Programación: [Python](https://www.python.org/)
+
+- Framework Web: [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+
+- Frontend: [Plantillas HTML](https://www.bootstrapcdn.com/bootswatch/)
+
+- Biblioteca de Geolocalización: [Geopy](https://geopy.readthedocs.io/en/stable/#) ,
+
+- Servicio de Geolocalización: [MapQuest](https://developer.mapquest.com/documentation/)
 
 ## Instalación
 
