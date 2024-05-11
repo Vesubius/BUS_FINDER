@@ -3,8 +3,13 @@ from flask import Flask
 app = Flask(__name__)
 
 
-# Pagina inicio
+#inicio
 @app.route("/")
-def homepage():
+def Seleccion_de_Ruta():
     return "Bus Finder"
 
+
+#Mapa
+@app.route("/Mapa")
+def Mapa():
+    return "GoogleMaps.PNG"
