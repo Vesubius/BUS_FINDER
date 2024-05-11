@@ -43,7 +43,4 @@ Bus Finder es una aplicación web que permite a los usuarios rastrear la posici�
 
 - Jeffry Pérez Duarte (jeffryperezduarte@gmail.com) - Desarrollador Python
 
-## Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
 
