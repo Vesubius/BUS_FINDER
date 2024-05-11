@@ -37,7 +37,7 @@ Bus Finder es una aplicación web que permite a los usuarios rastrear la posici�
 
 1. Clona este repositorio en tu máquina local.
 2. Instala las dependencias del proyecto ejecutando `pip install -r requirements.txt`.
-3. Ejecuta la aplicación utilizando el comando `flask --app main.py run`.
+3. Ejecuta la aplicación utilizando el comando `flask --app main.py run` o `flask --app main.py --debug run`.
 4. Accede a la aplicación en tu navegador web a través de la dirección URL proporcionada.
 
 ## Contribuir
