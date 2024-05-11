@@ -1,4 +1,4 @@
-#Bus Finder
+# Bus Finder
 
 Bus Finder es una aplicación web que permite a los usuarios rastrear la posición de los autobuses en tiempo real y obtener información sobre horarios y tiempos de llegada estimados. Esta aplicación está diseñada para mejorar la experiencia de viaje en transporte público al proporcionar a los usuarios acceso a información precisa y actualizada sobre la disponibilidad de autobuses en su área.
 
