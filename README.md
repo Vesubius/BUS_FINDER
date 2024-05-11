@@ -5,12 +5,19 @@ Bus Finder es una aplicación web que permite a los usuarios rastrear la posici�
 ## Características
 
 - Búsqueda de autobuses por ruta y ubicación.
+![](/Prototipo/image1.png)
+
 - Visualización de la ubicación de los autobuses en tiempo real en un mapa interactivo.
+![](/Prototipo/image3.png)
+
 - Selección de una ruta específica y visualización de los tiempos de llegada estimados de los autobuses en esa ruta.
+![](/Prototipo/image4.png)
+
+
 - Interfaz de usuario intuitiva y fácil de usar.
+![](/Prototipo/image5.png)
 
 ## Tecnologías Utilizadas
-
 - Lenguaje de Programación: Python
 - Framework Web: Flask
 - Frontend: HTML, CSS, JavaScript
@@ -24,8 +31,7 @@ Bus Finder es una aplicación web que permite a los usuarios rastrear la posici�
 4. Accede a la aplicación en tu navegador web a través de la dirección URL proporcionada.
 
 ## Contribuir
-
-¡Agradecemos tus contribuciones a Chilsaka Bus Finder! Si quieres colaborar con este proyecto, por favor sigue estos pasos:
+¡Agradecemos tus contribuciones a Bus Finder! Si quieres colaborar con este proyecto, por favor sigue estos pasos:
 
 1. Haz un fork del repositorio.
 2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
@@ -35,7 +41,7 @@ Bus Finder es una aplicación web que permite a los usuarios rastrear la posici�
 
 ## Equipo
 
-- Jeffry Pérez Duarte (jeffryperezduarte@gmail.com) - Líder de Proyecto / Desarrollador Backend
+- Jeffry Pérez Duarte (jeffryperezduarte@gmail.com) - Desarrollador Python
 
 ## Licencia
 
