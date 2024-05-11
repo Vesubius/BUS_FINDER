@@ -5,17 +5,17 @@ Bus Finder es una aplicación web que permite a los usuarios rastrear la posici�
 ## Características
 
 - Búsqueda de autobuses por ruta y ubicación.
-![](/Prototipo/image1.png)
+![](/Concepto/image1.png)
 
 - Visualización de la ubicación de los autobuses en tiempo real en un mapa interactivo.
-![](/Prototipo/image3.png)
+![](/Concepto/image3.png)
 
 - Selección de una ruta específica y visualización de los tiempos de llegada estimados de los autobuses en esa ruta.
-![](/Prototipo/image4.png)
+![](/Concepto/image4.png)
 
 
 - Interfaz de usuario intuitiva y fácil de usar.
-![](/Prototipo/image5.png)
+![](/Concepto/image5.png)
 
 ## Tecnologías Utilizadas
 - Lenguaje de Programación: Python
