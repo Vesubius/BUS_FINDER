@@ -8,6 +8,6 @@ def index():
     return render_template("index.html")
 
 
-@app.route("/mapa")
+@app.route("/map")
 def Mapa():
-    return "En esta Vista Debe verse el mapa"
+    return render_template("map.html")
