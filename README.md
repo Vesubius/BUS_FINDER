@@ -27,7 +27,7 @@ Bus Finder es una aplicación web que permite a los usuarios rastrear la posici�
 
 - Framework Web: [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 
-- Frontend: [Plantillas HTML](https://www.bootstrapcdn.com/bootswatch/)
+- Frontend: [Plantilla Flatly bootsWatch ](https://bootswatch.com/flatly/)
 
 - Biblioteca de Geolocalización: [Geopy](https://geopy.readthedocs.io/en/stable/#) ,
 
