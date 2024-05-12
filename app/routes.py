@@ -7,6 +7,6 @@ def index():
     return "¡Hola, mundo!"
 
 
-@app.route("/Mapa")
+@app.route("/mapa")
 def Mapa():
     return "En esta Vista Debe verse el mapa"
