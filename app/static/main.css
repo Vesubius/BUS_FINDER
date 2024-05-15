@@ -11,22 +11,3 @@ h1 {
     text-align: center;
     width: 1350px; /* Ajusta el ancho según sea necesario */
 }
-
-/* ================================= Esto controla el tamaño y posicion de el container ==========================*/
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 400px; /* Esto centra verticalmente en la ventana del navegador */
-}
-
-/* =================================== Esto centra el container =============================*/
-.centered-content {
-    text-align: center;
-    width: 100px; /* Ajusta el ancho según sea necesario */
-}
-
-/* ============================ Esto controla el margen superior de el boton ========================================*/
-.btn {
-    margin-top: 20px; /* Margen superior para separar el botón del resto del contenido */
-}
