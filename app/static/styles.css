@@ -9,5 +9,5 @@ body {
 /* ================================ Esto controla la posicion de el titulo Bus Finder ==================================*/
 h1 {
     text-align: center;
-    width: 1350px; /* Ajusta el ancho según sea necesario */
+    width: 100%; /* Ajusta el ancho */
 }
